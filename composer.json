@@ -5,6 +5,7 @@
     "require": {
         "php": "^7.0.8",
         "ext-iconv": "*",
+        "easycorp/easyadmin-bundle": "^1.17",
         "symfony/console": "^3.4",
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^3.4",
@@ -22,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "Chatbot\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "App\\Tests\\": "tests/"
+            "Chatbot\\Tests\\": "tests/"
         }
     },
     "replace": {

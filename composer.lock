@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "23e0348fb3e4bb7349b966713d98f38f",
+    "content-hash": "4e34cfbe59ff0da28742f5bf5b07156e",
     "packages": [
         {
             "name": "psr/cache",
@@ -1392,7 +1392,7 @@
     "packages-dev": [
         {
             "name": "symfony/dotenv",
-            "version": "v3.4.6",
+            "version": "v3.4.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dotenv.git",
